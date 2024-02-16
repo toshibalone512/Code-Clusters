@@ -19,6 +19,13 @@ body {
     align-items: center;
 }
 
+.name{
+    position: absolute;
+    left:75px;
+    color: orange;
+    
+}
+
 .logo {
     width: 50px; /* Adjust the width as needed */
     height: auto;
